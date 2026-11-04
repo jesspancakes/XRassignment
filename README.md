@@ -23,6 +23,7 @@ The tools in the game will include :
  - thimbles
  - safety pins
  - buttons
+   
 The stitches will include :
  - running stitch
  - back stitch
