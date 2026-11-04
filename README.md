@@ -35,3 +35,5 @@ The stitches will include :
 
 To create the project I will use the Godó Hands project as a base, as I want to have hand tracking and interactions in my game. 
 I will also use Godot XR Tools, as well as the xr25 and xr26 repos.
+
+I will be working solo on this project.
